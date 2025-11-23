@@ -2,10 +2,12 @@
 <!-- slug: php-simple-inventory -->
 <!-- title: PHP Simple Inventory -->
 <!-- description: Simple inventory management system built with native PHP and MySQL for small businesses -->
-<!-- image: https://github.com/user-attachments/assets/placeholder-php-inventory -->
+<!-- image: https://github.com/user-attachments/assets/1f040d7c-6b50-4d07-b93b-d23c638ea418 -->
 <!-- tags: php, mysql, inventory, crud, simple -->
 
 # PHP Simple Inventory System
+
+<img width="1536" height="1024" alt="php-simple-inventory" src="https://github.com/user-attachments/assets/1f040d7c-6b50-4d07-b93b-d23c638ea418" />
 
 A straightforward inventory management system built with native PHP and MySQL. This project was created during my high school years to help small businesses manage their product inventory efficiently.
 
@@ -236,3 +238,4 @@ Open source - educational use.
 
 **Built in High School** 📦✨  
 A simple solution for small business inventory needs
+
